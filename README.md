@@ -15,6 +15,8 @@
 * Area of Triangle from Vertices
 * Binomial Coefficients
 * Haversine
+* Factorial (Memoized)
+* Fibonacci (Closed Form, Memoized)
 
 ## Data Structures
 * Graph
