@@ -15,6 +15,7 @@
 * Area of Triangle from Vertices
 * Binomial Coefficients
 * Haversine
+
 ## Data Structures
 * Graph
 * Binary Tree
